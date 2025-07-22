@@ -1,0 +1,72 @@
+{
+  "pages": {
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/_app-pages-browser_src_components_ui_micro-interactions_tsx.js",
+      "static/chunks/app/page.js"
+    ],
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/tools/contract-diff/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/contract-diff/page.js"
+    ],
+    "/tools/gas-analyzer/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/gas-analyzer/page.js"
+    ],
+    "/tools/debug/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/debug/page.js"
+    ],
+    "/tools/wallet-monitor/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/wallet-monitor/page.js"
+    ],
+    "/tools/network-monitor/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/tools/network-monitor/page.js"
+    ],
+    "/search/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/_app-pages-browser_src_components_ui_micro-interactions_tsx.js",
+      "static/chunks/_app-pages-browser_src_components_ui_loading_tsx.js",
+      "static/chunks/app/search/page.js"
+    ],
+    "/contracts/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/_app-pages-browser_src_components_ui_micro-interactions_tsx.js",
+      "static/chunks/_app-pages-browser_src_components_ui_loading_tsx.js",
+      "static/chunks/app/contracts/page.js"
+    ],
+    "/analytics/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/vendors.js",
+      "static/chunks/main-app.js",
+      "static/chunks/_app-pages-browser_src_components_ui_micro-interactions_tsx.js",
+      "static/chunks/_app-pages-browser_src_components_ui_loading_tsx.js",
+      "static/chunks/app/analytics/page.js"
+    ]
+  }
+}

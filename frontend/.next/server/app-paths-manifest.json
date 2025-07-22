@@ -1,0 +1,8 @@
+{
+  "/page": "app/page.js",
+  "/tools/wallet-monitor/page": "app/tools/wallet-monitor/page.js",
+  "/tools/network-monitor/page": "app/tools/network-monitor/page.js",
+  "/search/page": "app/search/page.js",
+  "/contracts/page": "app/contracts/page.js",
+  "/analytics/page": "app/analytics/page.js"
+}
