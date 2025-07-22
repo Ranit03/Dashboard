@@ -397,13 +397,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenZeppelin for security-audited contract libraries
 - The entire Web3 developer community
 
-## 🔗 Links
 
-- **Live Demo**: [https://demo.blockdag-explorer.com](https://demo.blockdag-explorer.com)
-- **Documentation**: [https://docs.blockdag-explorer.com](https://docs.blockdag-explorer.com)
-- **GitHub**: [https://github.com/your-org/blockdag-developer-suite](https://github.com/your-org/blockdag-developer-suite)
-- **Discord**: [https://discord.gg/blockdag-dev](https://discord.gg/blockdag-dev)
-- **Twitter**: [@BlockDAGDev](https://twitter.com/BlockDAGDev)
 
 ---
 
